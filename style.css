@@ -45,8 +45,9 @@ ABOUT
 
 #about img {
     border-radius: 50%;
-    width: 120px;
+    width: 170px;
     margin-bottom: 10px;
+    height: 200px;
 }
 
 #about .name {
@@ -68,7 +69,7 @@ ABOUT
 
 #about .email {
     margin-top: 14px;
-    font-size: 30px;
+    font-size: 26px;
 }
 
 #about .icon {
